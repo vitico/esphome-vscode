@@ -104,5 +104,8 @@
   "mocha": {
     "files": "server/test/**/*.ts",
     "require": "ts-node/register"
+  },
+  "dependencies": {
+    "@vscode/vsce": "^2.18.0"
   }
 }
